@@ -1,0 +1,10 @@
+{
+    "python.analysis.extraPaths": ["${workspaceFolder}"],
+    "python.defaultInterpreterPath": "python",
+    "python.formatting.provider": "black",
+    "editor.formatOnSave": true,
+    "files.exclude": {
+        "**/__pycache__": true,
+        "**/*.pyc": true
+    }
+}
